@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for increase of shipping, and encouragement of the navigation of this nation. Thursday the ninth of October, 1651. Ordered by the Parliament, that this act be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74432</idno>
+            <idno type="STC">Thomason E1061_58</idno>
+            <idno type="STC">ESTC R209326</idno>
+            <idno type="EEBO-CITATION">99868209</idno>
+            <idno type="PROQUEST">99868209</idno>
+            <idno type="VID">169107</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74432)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169107)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 158:E1061[58])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for increase of shipping, and encouragement of the navigation of this nation. Thursday the ninth of October, 1651. Ordered by the Parliament, that this act be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 1449-2454 [i.e. 1454] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Field, Printer to the Parliament of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Also issued as part of a through-paged folio set with a table for the entire set added.</note>
+                  <note>Signatures: 11G-11G4.</note>
+                  <note>Page 1454 is misnumbered 2454.</note>
+                  <note>Text in black letter.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Navigation acts, 1649-1696 --  Early works to 1800.</term>
+               <term>Maritime law --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169107:1" rendition="simple:additions"/>
+            <p>AN ACT FOR Increaſe of Shipping, And Encouragement of the NAVIGATION OF THIS NATION.</p>
+            <figure>
+               <figDesc>seal of the Commonwealth</figDesc>
+            </figure>
+            <p>Thurſday <hi>the Ninth of</hi> October, 1651.</p>
+            <p>
+               <hi>ORdered by the Parliament, That this Act be forthwith printed and publiſhed.</hi>
+            </p>
+            <p>Hen: Scobell, Cleric. Parliamenti.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>John Field,</hi> Printer to the Parliament of <hi>England,</hi> 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:169107:2"/>
+            <pb n="1449" facs="tcp:169107:2" rendition="simple:additions"/>
+            <head>AN ACT FOR Increaſe of Shipping, And Encouragement of the NAVIGATION OF THIS NATION.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Or the Increaſe of the Shipping and the Encouragement of the Navigation of this Nation, which under the good Providence and protection of God, is ſo great a means of the Welfare and Safe<g ref="char:EOLhyphen"/>ty of this Common<g ref="char:EOLhyphen"/>wealth; Be it Enacted by this preſent Parlia<g ref="char:EOLhyphen"/>ment, and the Authority thereof, That from and after the Firſt day of <hi>December,</hi> One thou<g ref="char:EOLhyphen"/>ſand ſix hundred fifty and one, and from thence forwards, No Goods or Commodities what<g ref="char:EOLhyphen"/>ſoever, of the Growth, Production or Manu<g ref="char:EOLhyphen"/>facture of <hi>Aſia, Affrica</hi> or <hi>America,</hi> or of any part thereof; or of any Iſlands belonging to them, or any of them, or which are deſcribed or laid down in the uſual Maps or Cards of thoſe places, as well of the Engliſh Plantations as others, ſhall be Imported or brought into this
+<pb n="1450" facs="tcp:169107:3"/> Commonwealth of <hi>England,</hi> or into <hi>Ireland,</hi> or any other Lands, Iſlands, Plantations or Territories to this Commonwealth belonging, or in their Poſſeſsion, in any other Ship or Ships, Veſſel or Veſſels whatſoever, but only in ſuch as do truly and without fraud belong only to the People of this Commonwealth, or the Plantations thereof, as the Proprietors or right Owners thereof: And whereof the Maſter and Marriners are alſo for the moſt part of them, of the People of this Common<g ref="char:EOLhyphen"/>wealth, under the penalty of the forfeiture and loſs of all the Goods that ſhall be Imported contrary to this Act; as alſo of the Ship (with all her Tackle, Guns and Apparel) in which the ſaid Goods or Commodities ſhall be ſo brought in and Imported, The one moyety to the uſe of the Commonwealth, and the other moyety to the uſe and behoof of any perſon or perſons who ſhall ſeize the ſaid Goods or Com<g ref="char:EOLhyphen"/>modities, and ſhall proſecute the ſame in any Court of Record within this Commonwealth. And it is further Enacted by the Authority a<g ref="char:EOLhyphen"/>foreſaid, That no Goods or Commodities of the Growth, Production or Manufacture of <hi>Europe,</hi> or of any part thereof, ſhall after the Firſt day of <hi>December,</hi> One thouſand ſix hun<g ref="char:EOLhyphen"/>dred fifty and one, be Imported or brought into this Commonwealth of <hi>England,</hi> or into <hi>Ireland,</hi> or any other Lands, Iſlands, Plantations or Territories to this Commonwealth belonging, or in their poſſeſsion, in any Ship or Ships, Veſſel or Veſſels whatſoever, but in ſuch as do truly and without fraud belong onely to the people of this Commonwealth, as the true Owners and proprietors thereof, and in no o<g ref="char:EOLhyphen"/>ther, except onely ſuch Forreign Ships and
+<pb n="1451" facs="tcp:169107:3"/> Veſſels as do truly and properly belong to the people of that Countrey or place, of which the ſaid Goods are the Growth, Production or Manufacture; or to ſuch Ports where the ſaid Goods can onely be, or moſt uſually are firſt Shipped for Tranſportation; And that under the ſame penalty of forfeiture and loſs expreſ<g ref="char:EOLhyphen"/>ſed in the former Branch of this Act, The ſaid Forfeitures to be recovered and imployed as is therein expreſſed. And it is further Enacted by the Authority aforeſaid, That no Goods or Commodities that are of Forreign Growth, Production or Manufacture, and which are to be brought into this Commonwealth, in ſhipping belonging to the people thereof, ſhall be by them Shipped or brought from any other place or places, Countrey or Countreys, but onely from thoſe of their ſaid Growth, Pro<g ref="char:EOLhyphen"/>duction or Manufacture; or from thoſe Ports where the ſaid Goods and Commodities can onely, or are, or uſually have been firſt Ship<g ref="char:EOLhyphen"/>ped for Tranſportation; And from none other places or Countreys, under the ſame penalty of forfeiture and loſs expreſſed in the firſt Branch of this Act, the ſaid Forfeitures to be recover<g ref="char:EOLhyphen"/>ed and imployed as is therein expreſsed. And it is further Enacted by the Authority aforeſaid, That no ſort of Cod-fiſh, Ling, Herring, Pil<g ref="char:EOLhyphen"/>chard, or any other kinde of ſalted Fiſh, uſually fiſhed for and caught by the people of this Na<g ref="char:EOLhyphen"/>tion; nor any Oyl made, or that ſhall be made of any kinde of Fiſh whatſoever, nor any Whale-fins, or Whale-bones, ſhall from hence<g ref="char:EOLhyphen"/>forth be Imported into this Commonwealth, or into <hi>Ireland,</hi> or any other Lands, Iſlands, Plantations, or Territories thereto belong<g ref="char:EOLhyphen"/>ing, or in their poſseſsion, but onely ſuch as
+<pb n="1452" facs="tcp:169107:4"/> ſhall be caught in Veſſels that do or ſhall truly and properly belong to the people of this Na<g ref="char:EOLhyphen"/>tion, as Proprietors and Right Owners there<g ref="char:EOLhyphen"/>of: And the ſaid Fiſh to be cured, and the Oyl aforeſaid made by the people of this ſaid Com<g ref="char:EOLhyphen"/>monwealth, under the penalty and loſs expreſ<g ref="char:EOLhyphen"/>ſed in the ſaid firſt Branch of this preſent Act<g ref="char:punc">▪</g> the ſaid Forfeit to be recovered and imployed as is there expreſſed. And it is further Enacted by the Authority aforeſaid, That no ſort of Cod, Ling, Herring, Pilchard, or any other kinde of Salted Fiſh whatſoever, which ſhall be caught and cured by the people of this Com<g ref="char:EOLhyphen"/>monwealth, ſhall be from and after the Firſt day of <hi>February,</hi> One thouſand ſix hundred fifty three, Exported from any place or places belong<g ref="char:EOLhyphen"/>ing to this Commonwealth, in any other Ship or Ships, Veſſel or Veſſels, ſave onely in ſuch as do truly and properly appertain to the people of this Commonwealth, as Right Owners; and whereof the Maſter and Marriners are for the moſt part of them Engliſh, under the penal<g ref="char:EOLhyphen"/>ty and loſs expreſſed in the ſaid firſt Branch of this preſent Act; the ſaid Forfeit to be recover<g ref="char:EOLhyphen"/>ed and imployed as is there expreſſed. Provi<g ref="char:EOLhyphen"/>ded always, That this Act, nor any thing there<g ref="char:EOLhyphen"/>n contained, extend not, or be meant to reſtrain the Importation of any of the Commodities of the Streights or Levant Seas, loaden in the Shipping of this Nation as aforeſaid, at the uſual Ports or places for lading of them here<g ref="char:EOLhyphen"/>tofore, within the ſaid Streights or Levant Seas, though the ſaid Commodities be not of the very Growth of the ſaid places. Provided alſo, That this Act nor any thing therein con<g ref="char:EOLhyphen"/>tained, extend not, nor be meant to reſtrain the Importing of any <hi>Eaſt-India</hi> Commodities
+<pb n="1453" facs="tcp:169107:4"/> loaden in the Shipping of this Nation, at the uſual Port or places for Lading of them here<g ref="char:EOLhyphen"/>tofore in any part of thoſe Seas, to the South<g ref="char:EOLhyphen"/>ward and Eaſtward of <hi>Cabo Bona Eſperanza,</hi> al<g ref="char:EOLhyphen"/>though the ſaid Ports be not the very places of their Growth. Provided alſo, That it ſhall and may be lawful to and for any of the People of this Commonwealth, in Veſſels or Ships to them belonging, and whereof the Maſter and Marriners are of this Nation as afore<g ref="char:EOLhyphen"/>ſaid, To load and bring in from any of the Ports of <hi>Spain</hi> and <hi>Portugal,</hi> all ſorts of Goods or Commodities that have come from, or any way belonged unto the Plantations or Domi<g ref="char:EOLhyphen"/>nions of either of them reſpectively: Be it alſo further Enacted by y<hi rend="sup">e</hi> authority aforeſaid, That from henceforth, it ſhal not be lawful to any per<g ref="char:EOLhyphen"/>ſon or perſons whatſoever, to load or cauſe to be loaden and carryed in any Bottom or Bottoms, Ship or Ships, Veſſel or Veſſels whatſoever, whereof any Stranger or Strangers born (un<g ref="char:EOLhyphen"/>leſs ſuch as be Denizens or Naturalized) be Owners, part Owners, or Maſter, Any Fiſh, Victual, Wares, or things of what kinde or na<g ref="char:EOLhyphen"/>ture ſoever the ſame ſhall be, from one Port or Creek of this Commonwealth, to another Port or Creek of the ſame, under penalty to every one that ſhall offend contrary to the true meaning of this Branch of this preſent Act, to forfeit all the Goods that ſhall be ſo Laden or carried, as alſo the Ship upon which they ſhall be ſo laden or carried, the ſame Forfeit to be re<g ref="char:EOLhyphen"/>covered and imployed as directed in the Firſt Branch of this preſent Act. Laſtly, That this Act nor any thing therein contained, extend not to Bullion, nor yet to any Goods taken, or that ſhall be taken by way of Reprizal by any Ship
+<pb n="2454" facs="tcp:169107:5"/> or Ships, having Commiſsion from this Com<g ref="char:EOLhyphen"/>monwealth. Provided, That this Act, or any thing therein contained, ſhall not extend, nor be conſtrued to extend to any Silk or Silk-wares which ſhall be brought by Land from any parts of <hi>Italy,</hi> and there bought with the proceed of Engliſh Commodities, ſold either for Money or in Barter; but that it ſhall and may be lawful for any of the people of this Commonwealth to ſhip the ſame in Engliſh Veſſels from <hi>Oſt<g ref="char:EOLhyphen"/>end, Newport, Roterdam, Middleburgh, Amſterdam,</hi> or any Ports thereabouts; The Owners and Pro<g ref="char:EOLhyphen"/>prietors firſt making Oath by themſelves, or other credible Witneſs, before the Commiſsion<g ref="char:EOLhyphen"/>ers of the Cuſtoms for the time being or their Deputies, or one of the Barons of the Exche<g ref="char:EOLhyphen"/>quer, that the Goods aforeſaid were ſo bought for his or their own proper Accompt in <hi>Italy.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <opener>
+               <dateline>
+                  <date>Thurſday the <hi>9<hi rend="sup">th</hi>
+                     </hi> of <hi>October, 1651.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Parliament, That this Act be forthwith printed and publiſhed.</p>
+            <closer>
+               <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
